@@ -36,7 +36,7 @@ module tb_traffic_light;
         $monitor("Time: %t, R_LED: %b, Y_LED: %b, G_LED: %b", $time, R_LED, Y_LED, G_LED);
         
         // The simulation will run for 1500 clock cycles. Since the clock is 100 MHz (10 ns per cycle),
-        // 1500 cycles correspond to 15,000 ns, which is 15 seconds of simulation.
+        // 1500 cycles correspond to 15,000 ns, which is 15 microseconds of simulation.
         #1500;
 
         // The '$finish' command ends the simulation after the specified time

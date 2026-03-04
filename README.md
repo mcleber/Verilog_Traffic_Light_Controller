@@ -133,7 +133,6 @@ Once programmed, the LEDs automatically begin cycling through the traffic sequen
 
 ## Features
 
-- Clean and modular Verilog code
 - Counter-based timing control
 - Continuous automatic operation
 - Simulation testbench included

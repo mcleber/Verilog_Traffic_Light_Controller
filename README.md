@@ -2,9 +2,9 @@
 ### Sequential LED Control using FPGA
 
 ![Platform](https://img.shields.io/badge/Platform-FPGA-blue)
-![Language](https://img.shields.io/badge/Language-Verilog-orange)
-![Board](https://img.shields.io/badge/Board-Tang%20Primer%2020K-green)
 ![IDE](https://img.shields.io/badge/IDE-Gowin%20IDE-blue)
+![Board](https://img.shields.io/badge/Board-Tang%20Primer%2020K-green)
+![Language](https://img.shields.io/badge/Language-Verilog-orange)
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue)
 
 <p align="center">

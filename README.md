@@ -165,7 +165,7 @@ This project is open-source and available under the GPL-3.0 License.
 
 ---
 
-## Author
+## Additional Notes
 
 Developed as an FPGA learning project using the Tang Primer 20K platform.
 

@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-FPGA-blue)
 ![EDA](https://img.shields.io/badge/EDA-Gowin%20EDA-blue)
 ![Board](https://img.shields.io/badge/Board-Tang%20Primer%2020K-green)
-![Language](https://img.shields.io/badge/Language-Verilog-orange)
+![HDL](https://img.shields.io/badge/HDL-Verilog-orange)
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue)
 
 <p align="center">
